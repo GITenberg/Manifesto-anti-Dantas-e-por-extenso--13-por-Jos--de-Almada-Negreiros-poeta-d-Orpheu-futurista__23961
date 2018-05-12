@@ -1,0 +1,37 @@
+_repo: Manifesto-anti-Dantas-e-por-extenso--13-por-Jos--de-Almada-Negreiros-poeta-d-Orpheu-futurista__23961
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Almada Negreiros, José de
+    aliases:
+    - Sobral de Almada Negreiros, José
+    - Negreiros, Jose Sobral de Almada
+    - Negreiros, José Sobral de Almada
+    - De Almada Negreiros, José
+    - Negreiros, José de Almada
+    birthdate: 1893
+    deathdate: 1970
+    gutenberg_agent_id: '25447'
+    url: http://www.gutenberg.org/2009/agents/25447
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_de_Almada_Negreiros
+    - http://pt.wikipedia.org/wiki/Almada_Negreiros
+description: ''
+gutenberg_issued: '2007-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23961'
+language: pt
+production_note: Produced by Vasco Salgado
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Dantas, Júlio, 1876-1962'
+title: "Manifesto anti-Dantas e por extenso\r\npor José de Almada Negreiros poeta\
+  \ d'Orpheu futurista e tudo"
+url: http://www.gutenberg.org/ebooks/23961
